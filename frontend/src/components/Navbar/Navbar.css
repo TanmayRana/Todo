@@ -1,0 +1,10 @@
+.logo {
+  color: rgb(255, 0, 0.836);
+  font-weight: 600;
+}
+.btn-nav {
+  background-color: rgb(255, 0, 0.836);
+  border-radius: 5px;
+  color: white !important;
+  font-weight: bold;
+}
